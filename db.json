@@ -3,22 +3,26 @@
     {
       "id": 1,
       "title": "Title 1",
-      "body": "Description 1"
+      "body": "Description 1",
+      "createdDate": "2023-09-26T05:24:01.449Z"
     },
     {
       "id": 2,
       "title": "Title 2",
-      "body": "Description 2"
+      "body": "Description 2",
+      "createdDate": "2023-09-26T05:24:02.449Z"
     },
     {
       "id": 3,
       "title": "Title 3",
-      "body": "Description 3"
+      "body": "Description 3",
+      "createdDate": "2023-09-26T05:24:03.449Z"
     },
     {
       "id": 4,
       "title": "Title 4",
-      "body": "Description 4"
+      "body": "Description 4",
+      "createdDate": "2023-09-26T05:24:04.449Z"
     }
   ]
 }
